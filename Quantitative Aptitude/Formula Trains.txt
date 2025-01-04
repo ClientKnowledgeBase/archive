@@ -1,0 +1,119 @@
+
+
+APPLICATIONS ON TRAINS.
+1. How long will a train 130m long travelling at 40 km an hour take to pass a kilometer stone?
+
+Solution:
+
+Time = Total Distance      m/s              130 m/s         130 m/s     130*18       2340     
+       --------------  = -----------  =   -------------  = --------- = ---------- =  ----- = 11.7 sec
+           speed            Km/Hr            40 Km/Hr        40*5        40*5         200
+                                                                --
+                                                                18
+
+2. How long will a train 60 m long travelling at 40 km an hour take to pass through a station whose platform is 90 m long?
+
+Solution:
+
+Time = Total Distance      m/s              60 m/a pass through 90 m/s         60 + 90 m/s         150*18       2700     
+       --------------  = -----------  =   -------------                   = ---------         = ---------- =  ----- = 13.5 sec
+           speed            Km/Hr            40 Km/Hr                            40*5               40*5         200
+                                                                                    --
+                                                                                    18
+
+3. Find the length of a bridge which a train 130 m long, travelling at 45 km an hour, can cross in 30secs.
+
+Solution:
+
+Time = Total Distance      m/s               m/s               m/s             m/s            m/s          m/s    
+       --------------  = -----------  =   -------------  = --------- =  -------      =     ---------- =  ----- = Length of the bridge = 375 - 130 = 245 m
+           speed            Km/Hr            45 Km/Hr        45*5          45*5             45*5*30       375 m
+                                                                              --               --
+                                                                              18                18
+
+4. The length of the train that takes 8 seconds to pass a pole when it turns at a speed of 36 km/hr is __________________ metres.
+
+Solution:
+
+Time = Total Distance      m/s               m/s             m/s           m           m 
+       --------------  = -----------  =   -------------  = --------- = ---------- =  ----- = 80 m
+           speed            Km/Hr            36 Km/Hr        36*5        36*5*8       1440
+                                                               --          --         ----
+                                                               18          18          18
+
+5. A train 50 metres long passes a platform 100 metres long I 10 seconds. The speed of the train is_____________ km/hr.
+
+
+
+Solution:                                                                                                  150
+                                                                                                           ----m
+Time = Total Distance      m/s              50 m/s  pass through 100 m/s       50+100 m/s     150m/s        10             15*18     270
+       --------------  = -----------  =   -------------------------      =     ---------  = ---------- =  ----- =   15m =      -- = ----  =  54 Km/Hr
+           speed            Km/Hr            Km/Hr                             Km/hr           Km/Hr        Km/Hr              5      5
+
+
+
+6. How many seconds will a train 60 m in length, travelling at the rate of 42 km an hour, take to pass another train 84 m long, proceeding in the same direction at the rate of 30 km an hour?
+
+
+Solution:
+
+Time = Total Distance      m/s              60 m/s pass another 84 m/s                60+84 m/s        144 m/s       144       144     144*18
+       --------------  = -----------  =   -----------------------------------     = ---------       = ---------- =  -----    = ----  = -------  =  43.2 sec
+           speed            Km/Hr            42 Km/Hr same direction 30Km/Hr         42-30 Km/Hr       12 Km/Hr       12*5      60        60
+															---     ---
+                                                            								18	18
+															
+7. A train 75 metres long overtook a person who was walking at the rate of 6 km an hour, and passed him
+in 7 1 seconds. Subsequently it overtook a second person, and passed him in 6 3   seconds. At what rate was the second travelling?
+     --                                                                       -- 
+     2                                                                         4                                                                                                                                    
+Solution:                                                                                  75*2  18
+                                                                                           -----* --       
+Time = Total Distance      m/s              75 m/s overtook + 6 km/hr          75m/15/2     15    5       36+6 Km/Hr
+       --------------  = -----------  =   -------------                      = --------- = ---------- =  -------------   = 42 Km/Hr
+           speed            Km/Hr            Km/Hr                                Km/Hr        Km/Hr      Km/Hr
+
+
+                                                                                           75*4  18
+                                                                                           -----* --       
+Time = Total Distance      m/s              75 m/s overtook + 6 km/hr          75m/27/4     27    5       40 Km/Hr
+       --------------  = -----------  =   -------------                      = --------- = ---------- =  -------------   = 42 Km/Hr = 42 Km/Hr - 40 Km/Hr = 2 Km/Hr
+           speed            Km/Hr            Km/Hr                                Km/Hr        Km/Hr      Km/Hr
+
+
+8. Two trains running at the rates 45 and 36 km an hour respectively, on parallel rails in opposite directions, are observed to pass each other in 8 seconds, and when they are running in the same direction at the same rate as before, a person sitting in the faster train observes that he passes the other in 30 seconds. Find the lengths of the trains.
+
+
+Solution:
+
+Time = Total Distance      m/s               m/s                                                m/s           m             m 
+       --------------  = -----------  =   -------------                                     = --------- = ---------- =      ----- =   180 m
+           speed            Km/Hr            45 Km/Hr opposite direction 36 Km/Hr with 8 sec          5           5         3240
+                                                                                               45+36*--     81*8* --        ----
+                                                                                                     18            18        18
+
+Time = Total Distance      m/s               m/s                                                   m/s           m             m 
+       --------------  = -----------  =   -------------                                     = --------- = ---------- =      ----- =   75 m  = 180m - 75 m = 105 m
+           speed            Km/Hr            45 Km/Hr same direction 36 Km/Hr with 30 sec            5             5         1350
+                                                                                               45-36*--     9*30* --          ----
+                                                                                                     18            18          18
+9. Two trains measuring 100 m and 80 m respectively, run on parallel lines of rails. When travelling in opposite directions they are observed to pass each other in 9 seconds, but when they are running in the same direction at the rates as before, the faster train passes the other in 18 seconds. Find the speed of the two trains in km per hour.
+
+Solution:                                                                      180*m
+                                                                                ---
+Time = Total Distance      m/s            100m/s + 80 m/s     100+80 m/s        18
+       --------------  = -----------  =  ----------------  =  -----------  =  ---------  = 10 m = R1
+           speed            Km/Hr           Km/Hr              Km/Hr               Km/Hr
+
+                                                                                180*m
+                                                                                ---
+Time = Total Distance      m/s            100m/s + 80 m/s     100+80 m/s         9
+       --------------  = -----------  =  ----------------  =  -----------  =  ---------  = 20 m = R2
+           speed            Km/Hr           Km/Hr              Km/Hr               Km/Hr
+
+
+Speed of faster train = R1+R2/2  = 10+20/2  = 30/2 = 15 m/s = 15 *18/5 = 54 Km/Hr
+
+Speed of slower train = R1+R2/2  = 10-20/2  =10/2  = 5 m/s =  5*18/5   = 18 Km/Hr
+

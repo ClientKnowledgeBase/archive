@@ -1,0 +1,110 @@
+--------------------------------------------
+Dates and Calendars - Zeller's Rule Shortcut
+-----------------------------------------------
+Calculate the day of the week for any date. Zeller’s Rule can be used to find
+the day on any particular date in the calendar in the history. All you have to
+know is the formula given below and how to use it.
+-----------------------
+Zeller’s Rule Formula:
+-----------------------
+F= K+ [(13*M - 1)/5] + D + [D/4] + [C/4] -2C
+
+where, K = Date, M = Month, C = The first two digits year and D = Last two
+digits of the year
+
+* In Zellers rule, months start from March. March = 1, April = 2, May=3 and
+so on... till Dec = 10,
+Jan = 11 Feb. = 12
+
+* Also remember that when you have to find day of the first or second
+month of any year, then Year=Given year-1 i.e., When you want to find Day
+of 15-2-1990., K=15, Month=12, D=Given Year-1=1990-1=1989=89
+---------------------------------------------
+Ex: find the day of the 27-08-2014?
+---------------------------------------------
+Sol: K=27,M=6,C=20 and D=14
+
+Replacing the values in the formula, we get F = 27 + [{(13 x 6)- 1)/5] + 14 +
+14/4+20/4-(2x 20)
+
+Therefore, F =27 + 77/5 + 14 + 14/4 + 20/4 - 40
+
+Which gives... F =27 + 15.5 +14+3.5+5-40
+
+[ We have to Consider only the integral value and ignore the value after
+decimal. So, the equation changes a bit as shown below. We have just
+removed value after decimal ]
+
+F=27+15+14+3+5—40 Therefore, F = 3. Now that you have a numerical
+value for the day, divide the number by 7. We need the remainder only. For
+example, in this case, the remainder is 3.
+
+Now, match the remainder with the chart below:
+
+1 = Monday 2 = Tuesday 3 = Wednesday 4= Thursday5 = Friday 6 = Saturday 7= Sunday
+
+Here, 3 represents Wednesday .
+
+So by Zeller’s rule, 27th of August, 2014 was on a Wednesday. So,Today is. wednesday.
+
+This formula will help you a lot in any Calendar question that you may
+encounter in Quant or DI. Remember that it Is necessary to know the
+formula properly or else, evena little mistake can render the answer
+Incorrect.
+
+PS: It Is natural for all of us to consider January as the first month of the
+year. However, we request you to please note that March should betreated
+as first month for using this formula.
+With this, you are all set to rock any calendar question that comes in front
+f you.
+The most important thing in this concept is to remember the formula as an
+incorrect interpretation can lead to a false answer.
+Above zeller rule is applicable to find exact day of given date. if you to find
+the day of the given date in a problem where a day Is given on a specified
+date. then we have to follow the given below procedure:
+
+---------------------------------------
+
+Ex: find the day of the 15-08-2024?
+
+---------------------------------------
+
+where, K = Date, M = Month, C = The first two digits year and D = Last two
+digits of the year
+
+* In Zellers rule, months start from March. March = 1, April = 2, May=3 and
+so on... till Dec = 10,
+Jan = 11 Feb. = 12
+
+Solution: K=15,M=6,C=20 and D=24
+
+-----------------------
+
+Zeller’s Rule Formula:
+
+-----------------------
+
+F= K+ [(13*M - 1)/5] + D + [D/4] + [C/4] -2C 
+
+Replacing the values in the formula, 
+we get F = 15 + [{(13*6)- 1)/5] + 24 + [24/4] + [20/4]-(2*20)
+
+Therefore, F = 15 + 77/5 + 24 + 24/4 + 20/4- 40
+         
+Which gives... F = 15 + 15.4 + 24 + 6 + 5 - 40
+
+[ We have to Consider only the integral value and ignore the value after
+decimal. So, the equation changes a bit as shown below. We have just
+removed value after decimal ]
+
+F= 15 + 15 + 24 + 6 + 5 — 40 Therefore, F = 4. Now that you have a numerical
+value for the day, divide the number by 7. We need the remainder only. For
+example, in this case, the remainder is 4.
+
+Now, match the remainder with the chart below:
+
+1 = Monday 2 = Tuesday 3 = Wednesday 4= Thursday 5 = Friday 6 = Saturday 7= Sunday
+
+Here, 4 represents Thursday.
+
+So by Zeller’s rule, 15th of August, 2024 was on a Thursday. So,Today is. Thursday.
